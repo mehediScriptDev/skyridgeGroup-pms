@@ -1,6 +1,6 @@
 # Real Estate Portal
 
-A production-ready React single-page application for a real-estate portal featuring property listings, mortgage calculators, consultation booking, user authentication, chat, and admin/user areas.
+A React application for a real-estate portal featuring property listings, mortgage calculators, consultation booking, user authentication, chat, and admin/user areas.
 
 **Live:** https://skyridgegroup.com
 

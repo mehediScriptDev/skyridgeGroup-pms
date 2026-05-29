@@ -1,8 +1,6 @@
 node_modules
 
 # Environment files (contain secrets — never commit)
-.env
-.env.development
-.env.production
 
  
+config.bat
